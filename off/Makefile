@@ -1,24 +1,18 @@
-A:
-	g++ -std=c++11 A.cpp
-B:
-	g++ -std=c++11 B.cpp
-C:
-	g++ -std=c++11 C.cpp
-D:
-	g++ -std=c++11 D.cpp
-E:
-	g++ -std=c++11 E.cpp
-F:
-	g++ -std=c++11 F.cpp
-G:
-	g++ -std=c++11 G.cpp
-H:
-	g++ -std=c++11 H.cpp
-I:
-	g++ -std=c++11 I.cpp
-J:
-	g++ -std=c++11 J.cpp
-K:
-	g++ -std=c++11 K.cpp
-L:
-	g++ -std=c++11 L.cpp
+CC := g++
+CFLAGS := -std=c++11
+TARGET := test
+
+# $(wildcard *.cpp /xxx/xxx/*.cpp): get all .cpp files from the current directory and dir "/xxx/xxx/"
+SRCS := $(wildcard *.cpp)
+# $(patsubst %.cpp,%.o,$(SRCS)): substitute all ".cpp" file name strings to ".o" file name strings
+OBJS := $(patsubst %.cpp,%.o,$(SRCS))
+
+all: $(TARGET)
+$(TARGET): $(OBJS)
+	$(CC) -o $@ $^
+%.o: %.cpp
+	$(CC) $(CFLAGS) -c $<
+clean:
+	rm -rf $(TARGET) *.o
+	
+.PHONY: all clean

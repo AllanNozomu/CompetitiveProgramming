@@ -2,6 +2,7 @@ in*
 CP.code-workspace
 out*
 *.out
+*.o
 
 Makefile
 !off/Makefile
