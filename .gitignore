@@ -1,0 +1,10 @@
+in*
+CP.code-workspace
+out*
+*.out
+
+Makefile
+!off/Makefile
+
+template.cpp
+!off/template.cpp
