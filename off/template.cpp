@@ -30,6 +30,7 @@ typedef vector<pii> vii;
 typedef vector<vector<int>> vvi;
 typedef vector<vector<pii>> vvii;
 
+#define umap unordered_map;
 #define mkp(a,b) make_pair(a,b)
 #define spc " "
 #define all(container) container.begin(), container.end()
@@ -41,7 +42,8 @@ void check_time(){
     cout << "Time taken " << ((double)t)/CLOCKS_PER_SEC << "s" << endl ;
 }
 
-void print_pair(const pii & par){
+template <typename C, typename D>
+void print_pair(const pair<C, D> & par){
     if (!debug) return;
     cout << "(" << par.first << spc << par.second << ")" << spc;
 }
