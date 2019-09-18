@@ -1,4 +1,6 @@
-# Leetcode problems
+# Leetcode problems [![forthebadge](https://forthebadge.com/images/badges/60-percent-of-the-time-works-every-time.svg)](https://forthebadge.com)
+
+
 User: [allannozomu](https://leetcode.com/allannozomu/)
 
 Total Solved: 204
