@@ -9,3 +9,4 @@ Makefile
 
 template.cpp
 !off/template.cpp
+.vscode
