@@ -7,7 +7,7 @@ Total Solved: 204
 
 - :green_heart: Easy: 79 
 - :yellow_heart: Medium: 98 
-- :hearts: Hard: 27 
+- :heart: Hard: 27 
 
 ### Question 1 - Two Sum
  Leetcode [link](https://leetcode.com/problems/two-sum/)
