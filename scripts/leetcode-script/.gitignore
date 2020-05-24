@@ -1,0 +1,11 @@
+# Download files
+*.json
+
+# All questions json file, obtained at leetcode api
+src/all_question.json
+
+# Output of the resolutions
+res/*
+
+# Final Markdown
+README.md
