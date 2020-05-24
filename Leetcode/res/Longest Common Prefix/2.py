@@ -1,7 +1,6 @@
-\*
-Author: allannozomu
-Runtime: 56 ms
-Memory: 13 MB*\
+# Author: allannozomu
+# Runtime: 56 ms
+# Memory: 13 MB
 
 class Solution:
     def longestCommonPrefix(self, strs: List[str]) -> str:

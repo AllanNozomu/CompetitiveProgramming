@@ -1,7 +1,6 @@
-\*
-Author: allannozomu
-Runtime: 44 ms
-Memory: 13.4 MB*\
+# Author: allannozomu
+# Runtime: 44 ms
+# Memory: 13.4 MB
 
 class Solution:
     solution = 

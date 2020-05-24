@@ -1,7 +1,6 @@
-\*
-Author: allannozomu
-Runtime: 36 ms
-Memory: N/A*\
+# Author: allannozomu
+# Runtime: 36 ms
+# Memory: N/A
 
 class Solution:
     def uniquePaths(self, m, n):

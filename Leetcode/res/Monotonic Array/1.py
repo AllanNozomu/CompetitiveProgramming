@@ -1,7 +1,6 @@
-\*
-Author: allannozomu
-Runtime: 544 ms
-Memory: 19.8 MB*\
+# Author: allannozomu
+# Runtime: 544 ms
+# Memory: 19.8 MB
 
 class Solution:
     def isMonotonic(self, A: List[int]) -> bool:

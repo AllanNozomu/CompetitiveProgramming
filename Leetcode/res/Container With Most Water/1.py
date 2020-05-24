@@ -1,7 +1,6 @@
-\*
-Author: allannozomu
-Runtime: 72 ms
-Memory: 14.6 MB*\
+# Author: allannozomu
+# Runtime: 72 ms
+# Memory: 14.6 MB
 
 class Solution:
     def maxArea(self, height: List[int]) -> int:

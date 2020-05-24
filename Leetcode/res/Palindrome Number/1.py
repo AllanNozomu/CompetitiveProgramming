@@ -1,7 +1,6 @@
-\*
-Author: allannozomu
-Runtime: 76 ms
-Memory: 13.2 MB*\
+# Author: allannozomu
+# Runtime: 76 ms
+# Memory: 13.2 MB
 
 class Solution:
     def isPalindrome(self, x: int) -> bool:

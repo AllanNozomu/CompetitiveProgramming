@@ -1,7 +1,6 @@
-\*
-Author: allannozomu
-Runtime: 88 ms
-Memory: 13.3 MB*\
+# Author: allannozomu
+# Runtime: 88 ms
+# Memory: 13.3 MB
 
 class Solution:
     def lengthOfLongestSubstring(self, s: str) -> int:

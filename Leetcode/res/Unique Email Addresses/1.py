@@ -1,7 +1,6 @@
-\*
-Author: allannozomu
-Runtime: 52 ms
-Memory: 14 MB*\
+# Author: allannozomu
+# Runtime: 52 ms
+# Memory: 14 MB
 
 class Solution:
     def numUniqueEmails(self, emails: List[str]) -> int:

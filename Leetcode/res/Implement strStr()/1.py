@@ -1,7 +1,6 @@
-\*
-Author: allannozomu
-Runtime: 48 ms
-Memory: 13.2 MB*\
+# Author: allannozomu
+# Runtime: 48 ms
+# Memory: 13.2 MB
 
 class Solution:
     def strStr(self, haystack: str, needle: str) -> int:

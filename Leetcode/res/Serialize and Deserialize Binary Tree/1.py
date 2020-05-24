@@ -1,7 +1,6 @@
-\*
-Author: allannozomu
-Runtime: 140 ms
-Memory: 19.9 MB*\
+# Author: allannozomu
+# Runtime: 140 ms
+# Memory: 19.9 MB
 
 # Definition for a binary tree node.
 # class TreeNode(object):

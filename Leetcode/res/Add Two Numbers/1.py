@@ -1,7 +1,6 @@
-\*
-Author: allannozomu
-Runtime: 116 ms
-Memory: 13.3 MB*\
+# Author: allannozomu
+# Runtime: 116 ms
+# Memory: 13.3 MB
 
 # Definition for singly-linked list.
 # class ListNode:

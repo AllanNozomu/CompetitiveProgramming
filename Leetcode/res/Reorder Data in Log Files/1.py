@@ -1,7 +1,6 @@
-\*
-Author: allannozomu
-Runtime: 44 ms
-Memory: 13.9 MB*\
+# Author: allannozomu
+# Runtime: 44 ms
+# Memory: 13.9 MB
 
 class Solution:
     def reorderLogFiles(self, logs: List[str]) -> List[str]:

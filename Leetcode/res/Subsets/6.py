@@ -1,7 +1,6 @@
-\*
-Author: allannozomu
-Runtime: 44 ms
-Memory: 13.2 MB*\
+# Author: allannozomu
+# Runtime: 44 ms
+# Memory: 13.2 MB
 
 class Solution:
     def subsets(self, nums: List[int]) -> List[List[int]]:

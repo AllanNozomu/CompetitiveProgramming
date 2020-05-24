@@ -1,7 +1,6 @@
-\*
-Author: allannozomu
-Runtime: 32 ms
-Memory: 14 MB*\
+# Author: allannozomu
+# Runtime: 32 ms
+# Memory: 14 MB
 
 class Solution:
     def reverse(self, x: int) -> int:

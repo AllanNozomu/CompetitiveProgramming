@@ -1,7 +1,6 @@
-\*
-Author: allannozomu
-Runtime: 504 ms
-Memory: 13.2 MB*\
+# Author: allannozomu
+# Runtime: 504 ms
+# Memory: 13.2 MB
 
 class Solution:
     def threeSumClosest(self, nums: List[int], target: int) -> int:   

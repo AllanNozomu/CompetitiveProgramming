@@ -1,7 +1,6 @@
-\*
-Author: allannozomu
-Runtime: 112 ms
-Memory: 13.4 MB*\
+# Author: allannozomu
+# Runtime: 112 ms
+# Memory: 13.4 MB
 
 class Solution:
     def setZeroes(self, matrix: List[List[int]]) -> None:
